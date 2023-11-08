@@ -55,3 +55,13 @@ function boolToWord( bool ){
 - **QA-course**
 
   - [Software-Testing certificate](http://cert.software-testing.ru/beginner/baranova.pdf)
+
+## Experience
+
+April 2021 - March 2022
+HTML-developer (Junior Frontend) at [MC Art](https://www.mcart.ru/).
+Built of complex full-fledged corporate portals for Bitrix (responsive cross-browser layouts with IE support), support for existing projects, interaction with PHP developers and UI/UX designers.
+
+## English
+
+C1 (Bachelor in English Philology)
