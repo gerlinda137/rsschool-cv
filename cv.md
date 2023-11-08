@@ -12,3 +12,46 @@
 ## About me
 
 Junior front-end developer with a year of commercial experience. I am considering both internships and full-time work as a junior developer. My positive qualities include: the ability to work in a team, friendliness, responsibility, constant desire for development. I am constantly in the process of further learning.
+
+## Skills
+
+- Semantic markup
+- Following the BEM methodology
+- Cross-browser compatibility
+- Responsiveness
+- Accessibility
+- PixelPerfect
+- CSS, SASS (SCSS syntax), LESS
+- Flexbox, Grid
+- Vanilla JS
+- Working with the API
+- Libs
+- Git version control system (console and UI);
+- GULP
+- Figma, Zeplin, Photoshop
+
+## Code examples
+
+```
+function boolToWord( bool ){
+  if (bool === true) {
+    return 'Yes'
+  } else {
+    return 'No'
+  }
+}
+```
+
+## Education
+
+- **Russian State Hydrometeorological University, Bachelor, 2018**
+
+  - Faculty: Philology, English language and literature.
+
+- **HTML-academy**
+
+  - [Frontend-developer profession](https://htmlacademy.ru/profile/gerlinda137/certificates)
+
+- **QA-course**
+
+  - [Software-Testing certificate](http://cert.software-testing.ru/beginner/baranova.pdf)
